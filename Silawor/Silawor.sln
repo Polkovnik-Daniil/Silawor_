@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silawor", "Silawor\Silawor.csproj", "{50743F39-5765-4BDE-B560-E8E88FD01CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50743F39-5765-4BDE-B560-E8E88FD01CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50743F39-5765-4BDE-B560-E8E88FD01CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50743F39-5765-4BDE-B560-E8E88FD01CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50743F39-5765-4BDE-B560-E8E88FD01CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D189614-895C-4175-B682-3C0A4F4A2D1E}
+	EndGlobalSection
+EndGlobal
